@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #4285f4;
+    color: white;
+}
+
+.menu {
+    font-size: 28px;
+    text-align: center;
+}
+
+.menu-item {
+    float: left;
+    margin: 10px;
+    padding: 4px;
+    background-color: #1e7d51;
+    color: white;
+    text-decoration: none;
+}
+
+.main-heading {
+    font-size: 56px;
+    text-align: center;
+}
+
+.main-image {
+    width: 90%;
+}
+
+img {
+    max-width: 100%;
+}
+
