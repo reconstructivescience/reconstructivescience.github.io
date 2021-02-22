@@ -107,7 +107,7 @@ body {
     max-width: 35%;
 }
 
-.text li {
+li {
     padding-bottom: 8px;
 }
 
@@ -141,8 +141,8 @@ h2 {
 }
 
 .teal{ 
-color: teal;
-font-size: 20px;
+    color: teal;
+    font-size: 20px;
 }
 
 table{
@@ -163,3 +163,13 @@ table{
     justify-content: center;
 }
 
+.footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:teal;
+  color: white;
+  text-align: center;
+
+ 
