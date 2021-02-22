@@ -171,5 +171,33 @@ table{
   background-color:teal;
   color: white;
   text-align: center;
+  min-height:200px;
+  font-size: 14px;
+  /* padding: 40px; */
+  display: flex;
+}
 
+.footer img {
+    width:150px;
+    height: auto;
+    /* text-align:center */
+}
  
+.footer-break {
+    height: 100px;
+
+}
+
+.footer a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.footer-info {
+    max-width: 50%;
+    text-align: left;
+}
+
+.footer div {
+    margin: 40px
+}
