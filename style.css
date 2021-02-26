@@ -201,3 +201,9 @@ table{
 .footer div {
     margin: 40px
 }
+
+#Application {
+    max-width: 40%;
+    height: auto
+}
+    
